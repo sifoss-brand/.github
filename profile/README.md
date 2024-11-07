@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./intro.svg" alt="Sifoss Studio, Comprehensive documentation for Sifoss, covering features, setup, and usage."</p>
+<img src="./ban.svg" alt="Sifoss Studio, Comprehensive documentation for Sifoss, covering features, setup, and usage."</p>
 <div align="center">
   <a href="https://docs.sifoss.io"> 📚 Docs <a>
   —
